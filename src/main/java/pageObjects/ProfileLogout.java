@@ -30,7 +30,7 @@ public class ProfileLogout {
 		for (int i = 0; i < Elements.size(); i++) {
 			String finalCollection = Elements.get(i).getText();
 			JavascriptExecutor jse2 = (JavascriptExecutor) driver;
-			jse2.executeScript("window.scrollBy(0,200)");
+			jse2.executeScript("window.scrollBy(0,100)");
 			List items = Arrays.asList(finalBooks);
 			r = 0;
 			if (items.contains(finalCollection)) {

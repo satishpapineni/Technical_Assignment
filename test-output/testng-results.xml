@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="38194" started-at="2022-05-09T16:58:06Z" finished-at="2022-05-09T16:58:44Z">
+  <suite name="Default suite" duration-ms="44254" started-at="2022-05-10T20:55:33Z" finished-at="2022-05-10T20:56:18Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="38194" started-at="2022-05-09T16:58:06Z" finished-at="2022-05-09T16:58:44Z">
+    <test name="Default test" duration-ms="44254" started-at="2022-05-10T20:55:33Z" finished-at="2022-05-10T20:56:18Z">
       <class name="Book.E2EProject.HomePage">
-        <test-method status="PASS" signature="intialize()[pri:0, instance:Book.E2EProject.HomePage@544fe44c]" name="intialize" is-config="true" duration-ms="4593" started-at="2022-05-09T16:58:06Z" finished-at="2022-05-09T16:58:11Z">
+        <test-method status="PASS" signature="intialize()[pri:0, instance:Book.E2EProject.HomePage@2805c96b]" name="intialize" is-config="true" duration-ms="6841" started-at="2022-05-10T20:55:33Z" finished-at="2022-05-10T20:55:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intialize -->
-        <test-method status="PASS" signature="basepageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Book.E2EProject.HomePage@544fe44c]" name="basepageNavigation" duration-ms="33398" started-at="2022-05-09T16:58:11Z" data-provider="getData" finished-at="2022-05-09T16:58:44Z">
+        <test-method status="PASS" signature="basepageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Book.E2EProject.HomePage@2805c96b]" name="basepageNavigation" duration-ms="37019" started-at="2022-05-10T20:55:40Z" data-provider="getData" finished-at="2022-05-10T20:56:17Z">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basepageNavigation -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:Book.E2EProject.HomePage@544fe44c]" name="teardown" is-config="true" duration-ms="172" started-at="2022-05-09T16:58:44Z" finished-at="2022-05-09T16:58:44Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Book.E2EProject.HomePage@2805c96b]" name="teardown" is-config="true" duration-ms="353" started-at="2022-05-10T20:56:17Z" finished-at="2022-05-10T20:56:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

@@ -42,7 +42,7 @@ public class HomePage extends Base {
 		bc.addBook();
 		BookStore bs = new BookStore(driver);
 		bs.getGitHub();
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		ProfileLogout pl = new ProfileLogout(driver);
 		pl.finalStep();
 
